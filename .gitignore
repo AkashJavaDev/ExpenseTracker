@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+apk/
+local.properties
+*.iml
+
+# Personal spending notes for the "mine" version (never commit)
+app/src/minePrivate/
+
+# Personal project notes (never commit)
+HANDOFF.md
